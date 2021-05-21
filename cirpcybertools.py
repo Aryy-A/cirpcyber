@@ -136,7 +136,7 @@ def usage():
 
 	print 'TULIS: python3 cirpcyber.py <url>'
 
-	print 'you can add "safe" after url, to autoshut after dos'
+	print 'masukin url yang bener dikit goblok'
 
 	print '---------------------------------------------------'
 
